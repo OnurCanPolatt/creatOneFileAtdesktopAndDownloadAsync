@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "creatOneFileAtdesktopAndDownloadAsync": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
